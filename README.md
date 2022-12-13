@@ -1,2 +1,2 @@
 # curso_sql
-Repositório com os códigos do curso do Téo
+Repositório com os códigos do curso de sql do Téo.
